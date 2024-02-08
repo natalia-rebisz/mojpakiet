@@ -1,0 +1,16 @@
+Package: mojpakiet
+Title: Something with Something
+Version: 1.0
+Authors@R: 
+    person("Natalia", "Rebisz", , "natalia.rebisz@student.urk.edu.pl", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://natalia-rebisz.github.io/WL-kurs-1/
