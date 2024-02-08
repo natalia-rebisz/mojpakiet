@@ -1,0 +1,10 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  moje: moje.html
+last_built: 2024-02-08T11:22Z
+urls:
+  reference: https://natalia-rebisz.github.io/WL-kurs-1/reference
+  article: https://natalia-rebisz.github.io/WL-kurs-1/articles
+
